@@ -7,6 +7,7 @@ public class Test01Controller {
         System.out.println("test0003");
         System.out.println("test0004");
         System.out.println("test0005");
+        System.out.println("test0006");
         System.out.println("test0007");
     }
 
